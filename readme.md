@@ -1,2 +1,2 @@
 # Deploying RAG Application
-## here we'll use LangChain, HuggingFace, AWS (Lambda, ECR)
+## Here we'll use LangChain, HuggingFace, AWS (Lambda, ECR)
